@@ -1,0 +1,44 @@
+[
+  {
+    "route": "stx",
+    "label": "STX.SWISS",
+    "desc": "A decentralized trading platform for tokenized assets. Built on the public Ethereum blockchain utilizing the Uniswap Exchange Protocol.",
+    "role": "Front-end Developer",
+    "link": "https://www.stx.swiss/"
+  },
+  {
+    "route": "toptal",
+    "label": "Toptal",
+    "desc": "An exclusive network of freelancers made up of the top 3% of software developers, designers, and project managers globally.",
+    "role": "Senior Freelance Front-end Developer",
+    "link": "https://www.toptal.com/#get-nothin,g-but-astute-developers"
+  },
+  {
+    "route": "muzeek",
+    "label": "Muzeek",
+    "desc": "A disruptive tech-startup, altering the booking worflow within the live music industry forever.",
+    "role": "Chief Of Design",
+    "link": "https://www.muzeek.com/"
+  },
+  {
+    "route": "themeforest",
+    "label": "Elite WordPress Author",
+    "desc": "Themeforest.net is a leading digital stock-products marketplace where authors sell their digital goods. To date, I have 4,800+ WordPress sales with an average customer rating of 4.65 stars.",
+    "role": "UI/UX Designer & Front-end Developer",
+    "link": "https://themeforest.net/user/jesse.ngatai"
+  },
+  {
+    "route": "tokenfactory",
+    "label": "TokenFactory",
+    "desc": "An umbrella company housing the brands blockimmo and STX.SWISS. An all-in-one asset tokenization and trading powerhouse.",
+    "role": "Front-end Developer",
+    "link": "https://tokenfactory.global/"
+  },
+  {
+    "route": "blox",
+    "label": "Blox Boiler",
+    "desc": "A function over form, front-end boilerplate.",
+    "role": "Open Source Passion Project",
+    "link": "https://bloxboiler.com/"
+  }
+]

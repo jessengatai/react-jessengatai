@@ -1,0 +1,24 @@
+{
+  "social": [
+    {
+      "label": "Twitter",
+      "link": "https://twitter.com/jessengatai",
+      "username": "@jessengatai"
+    },
+    {
+      "label": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jessengatai/",
+      "username": "@jessengatai"
+    },
+    {
+      "label": "Instagram",
+      "link": "https://www.instagram.com/jessengatai/",
+      "username": "@jessengatai"
+    },
+    {
+      "label": "GitHub",
+      "link": "https://github.com/jessengatai",
+      "username": "@jessengatai"
+    }
+  ]
+}

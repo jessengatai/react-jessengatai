@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "name": "Marketing for Designers (BETA)",
+      "link": "https://www.marketingfordesigners.co/",
+      "year": "2019"
+    },
+    {
+      "name": "Refactor UI Book",
+      "link": "https://refactoringui.com/book/",
+      "year": "2019"
+    },
+    {
+      "name": "UX Design Masterclass",
+      "link": "https://ux-masterclass.co/",
+      "year": "2019"
+    },
+    {
+      "name": "Process Masterclass",
+      "link": "https://process-masterclass.com/",
+      "year": "2018"
+    }
+  ],
+  "roles": [
+    {
+      "company": "TokenFactory",
+      "link": "https://tokenfactory.global/",
+      "title": "Front-end Developer",
+      "time": "Current",
+      "skills": ["Vue.js", "HTML", "CSS", "Javascript", "UI", "UX", "Prototyping"],
+      "description": "Token Factory (Blockimmo & STX.SWISS) is a Swiss-based blockchain startup. In a world-first, we tokenized a swiss property (digital shares legally represented on the Etherium blockchain) and successfully sold it through our Dapp (decentralized application)."
+    },
+    {
+      "company": "Toptal",
+      "link": "https://www.toptal.com/",
+      "title": "Senior Freelance Front-end Developer",
+      "time": "2018 - Current",
+      "skills": ["Vue.js", "HTML", "CSS", "Javascript"],
+      "description": "Toptal is an exclusive network of freelance software developers, designers, and finance experts. Toptal prides itself on only hiring talent from the top 3% in any given field."
+    },
+    {
+      "company": "Muzeek",
+      "link": "https://www.muzeek.com/",
+      "title": "Chief Of Design & Front-end",
+      "time": "2015 - 2018",
+      "skills": ["PHP","HTML","CSS","Javascript","MySQL","UI","UX"],
+      "description": "A SaaS startup changing how the live music industry interacts with one another by streamlining the booking, payment, and event coordination process. As the COD I build out new front-facing features taking them from concept all the way to launch. While the position is largely autonomous Im constantly providing and listening to feedback from all team members to better design, build and maintain thoughtful features that add value to our customers overall experience."
+    },
+    {
+      "company": "Themeforest.net",
+      "link": "https://themeforest.net/user/jessengatai",
+      "title": "Envato Elite Author",
+      "time": "2012 - 2017",
+      "skills": ["PHP","HTML","CSS","Javascript","WordPress Core","MySQL","Marketing","Customer Support"],
+      "description": "Themeforest.net is a leading digital stock-products marketplace where authors sell their digital goods. To date, I have 4,800+ WordPress sales with an average customer rating of 4.65 stars (based on 346 reviews) in addition to my theme Crush being a major top seller upon its release. As a one-man team, the scope of my responsibilities was broad. This included brainstorming theme ideas, developing themes from concept to launch, updating code to maintain compatibility with the CMS, creating marketing material, providing daily tech support for customers and answering pre-sale questions."
+    }
+  ]
+}
