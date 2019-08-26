@@ -8,7 +8,7 @@ export default class Form extends React.Component {
 
     this.state = {
       budget: 6000,
-      deadline: '4',
+      deadline: 4,
       desc: '',
       contact: '',
       error: '',
